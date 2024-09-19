@@ -1,0 +1,14 @@
+.ipynb
+*.pth
+sw/dataset/N*
+/=*
+wandb
+*.h5
+*_output
+*.csv
+__pycache__/
+result
+*.nwb
+recording_*
+*.raw
+*.pt

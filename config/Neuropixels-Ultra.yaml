@@ -1,0 +1,10 @@
+electrode_name: Neuropixels-Ultra
+description: "(Partial) Neuropixels-Ultra probe. 384 square contacts in 8 staggered columns."
+sortlist: null
+pitch: [6.0, 6.0]
+dim: [48, 8]
+stagger: 0
+size: 6.0
+plane: yz
+shape: square
+type: mea

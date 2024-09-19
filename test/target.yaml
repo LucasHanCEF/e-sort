@@ -1,0 +1,36 @@
+pretrain:
+
+  recording:
+    probe: "Neuropixels-384"
+    N: 300
+    density: 15000.0
+    noise: 10
+    duration: 100
+    seed: 671
+    drifting: "None"
+      
+  configuration:
+    full: "False"
+    train_duration: 50
+    batch: 1024
+    learning_rate: 0.005
+    epoch: 50
+
+
+finetune:
+
+  recording:
+    probe: "Neuropixels-384"
+    N: 300
+    density: 10000.0
+    noise: 10
+    duration: 100
+    seed: 32
+    drifting: "None"
+      
+  configuration:
+    full: "Number"
+    train_duration: 5
+    batch: 1024
+    learning_rate: 0.005
+    epoch: 50

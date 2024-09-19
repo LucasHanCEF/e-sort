@@ -1,0 +1,12 @@
+name: fafesort-env
+
+dependancies:
+  - python=3.12
+  - pytorch
+  - numpy
+  - scipy
+  - tqdm
+  - pyyaml
+  - spikeinterface[full]
+  - MEARec
+  - MEAutility
