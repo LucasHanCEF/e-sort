@@ -38,7 +38,7 @@ Should you find this work valuable, we kindly request that you consider referenc
 ```bibtex
 @misc{han2024fafesort,
       title={{FaFeSort: A Fast and Few-shot End-to-end Neural Network for Multi-channel Spike Sorting}}, 
-      author={Yuntao Han and Shiwei Wang and Alister Hamilton},
+      author={Yuntao Han and Shiwei Wang},
       year={2024},
       eprint={2409.13067},
       archivePrefix={arXiv},
