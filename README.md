@@ -31,3 +31,18 @@ Finally, the synthesized recordings and sorting results are stored in ./config a
 
 ## License
 This project is licensed under the GNU GPLv3 License - see the [LICENSE](https://github.com/LucasHanCEF/fafesort/blob/main/LICENSE) file for details.
+
+
+## Citation
+Should you find this work valuable, we kindly request that you consider referencing our paper as below:
+```bibtex
+@misc{han2024fafesort,
+      title={{FaFeSort: A Fast and Few-shot End-to-end Neural Network for Multi-channel Spike Sorting}}, 
+      author={Yuntao Han and Shiwei Wang and Alister Hamilton},
+      year={2024},
+      eprint={2409.13067},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={http://arxiv.org/abs/2409.13067}, 
+}
+```
