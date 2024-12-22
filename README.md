@@ -1,12 +1,12 @@
-# FaFeSort: A Fast and Few-shot End-to-end Neural Network for Multi-channel Spike Sorting
+# E-Sort: Empowering End-to-end Neural Network for Multi-channel Spike Sorting with Transfer Learning and Fast Post-processing
 
-This repository contains the codes for our paper FaFeSort, please refer to our paper for more technical details. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
+This repository contains the codes for our paper E-Sort, please refer to our paper for more technical details. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
 
 ## Setup
 
 **Clone this repository to local**
 ```shell
-git clone git@github.com:LucasHanCEF/fafesort.git
+git clone git@github.com:LucasHanCEF/e-sort.git
 ```
 **Create and activate the Conda environment**
 ```shell
@@ -36,8 +36,8 @@ This project is licensed under the GNU GPLv3 License - see the [LICENSE](https:/
 ## Citation
 Should you find this work valuable, we kindly request that you consider referencing our paper as below:
 ```bibtex
-@misc{han2024fafesort,
-      title={{FaFeSort: A Fast and Few-shot End-to-end Neural Network for Multi-channel Spike Sorting}}, 
+@misc{han2024esort,
+      title={{E-Sort: Empowering End-to-end Neural Network for Multi-channel Spike Sorting with Transfer Learning and Fast Post-processing}}, 
       author={Yuntao Han and Shiwei Wang},
       year={2024},
       eprint={2409.13067},
