@@ -1,6 +1,6 @@
 # E-Sort: Empowering End-to-end Neural Network for Multi-channel Spike Sorting with Transfer Learning and Fast Post-processing
 
-This repository contains the codes for our paper E-Sort, please refer to our paper for more technical details. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
+This repository contains the codes for our paper E-Sort, please refer to our paper for more technical details. This work has been submitted to the JNE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
 
 ## Setup
 
@@ -10,9 +10,9 @@ git clone git@github.com:LucasHanCEF/e-sort.git
 ```
 **Create and activate the Conda environment**
 ```shell
-cd fafesort
+cd e-sort
 conda env create -f requirements.yml
-conda activate fafesort-env
+conda activate e-sort-env
 ```
 
 ## Usage
