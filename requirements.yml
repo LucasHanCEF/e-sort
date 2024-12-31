@@ -1,4 +1,4 @@
-name: fafesort-env
+name: e-sort-env
 
 dependancies:
   - python=3.12
